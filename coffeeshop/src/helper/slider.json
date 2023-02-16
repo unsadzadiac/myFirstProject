@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "title":"\"Wise men speak because they have something to say; fools because they have to say something.\"",
+        "aftor":" - Platon - "
+    },
+    {
+        "id":2,
+        "title":"\"Work hard to get what you like, otherwise you'll be forced to just like what you get.\"",
+        "aftor":" - Bernard Shaw - "
+    },
+    {
+        "id":3,
+        "title":"\"In the End, we will remember not the words of our enemies, but the silence of our friends.\"",
+        "aftor":" - Martin Luther King - "
+    },
+    {
+        "id":4,
+        "title":"\"The weak can never forgive. Forgiveness is the attribute of the strong.\"",
+        "aftor":" - Mahatma Gandhi - "
+    }
+]
